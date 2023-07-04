@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(4, 4, 67);
+  font-family: 'helveticaneue-light', 'helvetica neue-light', 'helvetica neue',
+    helvetica, arial, 'lucida grande', sans-serif;
+}
+.wrapper {
+  text-align: center;
+  color: white;
+  width: 800px;
+
+  margin: 30px auto;
+}
+h1 {
+  font-family: 'roboto', sans-serif;
+  font-weight: 100;
+  font-size: 2.6em;
+  text-transform: uppercase;
+}
+h2 {
+  font-family: 'roboto', sans-serif;
+  font-weight: 100;
+  font-size: 2.6em;
+  text-transform: uppercase;
+}
+h3 {
+  font-family: 'roboto', sans-serif;
+  font-weight: 100;
+  font-size: 2.6em;
+  text-transform: uppercase;
+}
+#second {
+  font-size: 3em;
+}
+#tens {
+  font-size: 3em;
+}
